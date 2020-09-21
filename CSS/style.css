@@ -1,0 +1,21 @@
+@import "reset.css";
+
+h1 {
+  color: saddlebrown;
+}
+
+.block {
+  border-top-width: thin;
+  background-color: sienna;
+  line-height: 1.5;
+  text-align: center;
+  border: 11px;
+  border-width: 40px;
+  border-style: solid;
+  border-color: darkolivegreen;
+  width: 500px;
+  height: 500px;
+  border-radius: 70px;
+;
+}
+
